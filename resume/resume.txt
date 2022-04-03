@@ -1,0 +1,43 @@
+Resume
+Matilda Mared
+Fullstack Developer
+Website: https://www.matildamared.com
+Phone: +4670 667 9007
+Twitter: @matildamared1
+
+Hi! I'm Matilda Mared and I am a fullstack developer.
+
+Services
+Web Development
+Design
+
+Skills
+HTML
+Markup your content with semantic HTML.
+CSS
+Layout your content visually for multiple devices.
+JavaScript
+Make your content more interactive, and build web applications.
+
+Work History
+UX/UI Designer
+XYZ Corp
+3 years
+
+Web Developer
+ABC Corp
+5 years
+
+Carpet Cleaner
+123 Inc.
+2 years
+
+Portfolio
+
+Testimonials
+I love Matilda's work!
+Matilda's courses helped me get a job.
+
+Mailing Address
+Stigvägen 7
+123 45 Någonstad
