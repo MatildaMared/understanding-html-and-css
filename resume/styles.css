@@ -1,0 +1,55 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    max-inline-size: clamp(700px, 50%, 900px);
+    margin-inline: auto;
+    margin-block: 0;
+    border-inline-start: 1px solid #DDD;
+    border-inline-end: 1px solid #DDD;
+    padding-inline: 2rem;
+    padding-block: 0;
+}
+
+nav {
+    position: sticky;
+    top: 0;
+    background-color: white;
+}
+
+nav ul {
+    display: flex;
+}
+
+nav ul li {
+    display: inline;
+    margin-inline: .25rem;
+    margin-block: 0;
+    line-height: 1.5rem;
+    list-style: none;
+}
+
+.resume-fieldset {
+    border: none;
+    padding: 0;
+    margin: 0;
+}
+
+.resume-fieldset legend {
+    padding: 0;
+}
+
+#about {
+    display: flex;
+}
+
+#testimonials {
+    display: flex;
+}
